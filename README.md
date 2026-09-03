@@ -374,6 +374,16 @@ Active member of IEEE and the IEEE Computer Society at SLIIT, with an interest i
 
 ---
 
+# Coding Activity
+
+<p align="center">
+<a href="https://wakatime.com/dashboard">
+<img src="https://img.shields.io/badge/WakaTime-View%20Full%20Dashboard-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
+</a>
+</p>
+
+---
+
 # GitHub Trophies
 
 <p align="center">
