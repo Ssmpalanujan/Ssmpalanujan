@@ -4,15 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Mobile+Application+Developer;Building+Practical+Software+Solutions" />
 
-<br>
-
-Software Engineering Undergraduate
+Full-Stack Development &nbsp;|&nbsp; Mobile Application Development &nbsp;|&nbsp; Software Engineering
 
 <br>
-
-Full-Stack Development &nbsp; | &nbsp; Mobile Application Development &nbsp; | &nbsp; Software Engineering
-
-<br><br>
 
 <a href="https://github.com/Ssmpalanujan">
 <img src="https://img.shields.io/badge/GitHub-Ssmpalanujan-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -342,20 +336,6 @@ Active member of IEEE and the IEEE Computer Society at SLIIT, with an interest i
 | Introduction to Programming Using Java | Great Learning | 2025 |
 | Web Design for Beginners | University of Moratuwa (CODL) | 2026 |
 | Python for Beginners | University of Moratuwa (CODL) | 2026 |
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ssmpalanujan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=default" width="60%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssmpalanujan&hide_border=true&theme=default" width="60%" />
-
-</p>
 
 ---
 
