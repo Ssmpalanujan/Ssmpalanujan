@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=160&section=header&text=&fontSize=0" width="100%" />
+
 # PALANUJAN MANOHARAN
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Mobile+Application+Developer;Building+Practical+Software+Solutions" />
@@ -104,6 +106,28 @@ I enjoy transforming real-world requirements into functional applications with a
 </p>
 
 `Git` `GitHub` `VS Code` `Figma` `Docker`
+
+---
+
+# Skill Proficiency
+
+<p>
+
+Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/85/?scale=100&title=&width=250&color=2563eb&suffix=%25" />
+<br>
+JavaScript&nbsp;&nbsp;<img src="https://progress-bar.dev/88/?scale=100&title=&width=250&color=2563eb&suffix=%25" />
+<br>
+TypeScript&nbsp;&nbsp;<img src="https://progress-bar.dev/78/?scale=100&title=&width=250&color=2563eb&suffix=%25" />
+<br>
+React&nbsp;/&nbsp;React&nbsp;Native&nbsp;<img src="https://progress-bar.dev/82/?scale=100&title=&width=250&color=2563eb&suffix=%25" />
+<br>
+Node.js&nbsp;/&nbsp;Express&nbsp;<img src="https://progress-bar.dev/75/?scale=100&title=&width=250&color=2563eb&suffix=%25" />
+<br>
+SQL&nbsp;/&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/80/?scale=100&title=&width=250&color=2563eb&suffix=%25" />
+<br>
+Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/65/?scale=100&title=&width=250&color=2563eb&suffix=%25" />
+
+</p>
 
 ---
 
@@ -339,6 +363,25 @@ Active member of IEEE and the IEEE Computer Society at SLIIT, with an interest i
 
 ---
 
+# Currently Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Advanced%20React%20Native-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced%20Microservices-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-6C63FF?style=for-the-badge" />
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ssmpalanujan&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+---
+
 # GitHub Profile
 
 <p align="center">
@@ -390,3 +433,5 @@ Active member of IEEE and the IEEE Computer Society at SLIIT, with an interest i
 <img src="https://img.shields.io/badge/Creating%20With%20Purpose-7C3AED?style=flat-square" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%" />
